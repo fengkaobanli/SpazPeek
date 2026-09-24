@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme — static fallback (API 29/30), teal seed -->
+    <color name="md_primary">#006A6A</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#6FF7F6</color>
+    <color name="md_on_primary_container">#002020</color>
+    <color name="md_secondary">#4A6363</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_secondary_container">#CCE8E7</color>
+    <color name="md_on_secondary_container">#051F1F</color>
+    <color name="md_tertiary">#4B607C</color>
+    <color name="md_on_tertiary">#FFFFFF</color>
+    <color name="md_tertiary_container">#D3E4FF</color>
+    <color name="md_on_tertiary_container">#041C35</color>
+    <color name="md_error">#BA1A1A</color>
+    <color name="md_on_error">#FFFFFF</color>
+    <color name="md_error_container">#FFDAD6</color>
+    <color name="md_on_error_container">#410002</color>
+    <color name="md_background">#FAFDFC</color>
+    <color name="md_on_background">#191C1C</color>
+    <color name="md_surface">#FAFDFC</color>
+    <color name="md_on_surface">#191C1C</color>
+    <color name="md_surface_variant">#DAE5E4</color>
+    <color name="md_on_surface_variant">#3F4948</color>
+    <color name="md_surface_container_lowest">#FFFFFF</color>
+    <color name="md_surface_container_low">#F4F7F7</color>
+    <color name="md_surface_container">#EEF1F1</color>
+    <color name="md_surface_container_high">#E8EBEB</color>
+    <color name="md_surface_container_highest">#E2E5E5</color>
+    <color name="md_outline">#6F7979</color>
+    <color name="md_outline_variant">#BEC9C8</color>
+    <color name="md_inverse_surface">#2D3131</color>
+    <color name="md_inverse_on_surface">#EFF1F1</color>
+
+    <!-- Semantic states for verdict / status (not part of M3 token set) -->
+    <color name="state_ok">#2E7D32</color>
+    <color name="state_warn">#B26A00</color>
+    <color name="state_bad">#BA1A1A</color>
+    <color name="state_idle">#6F7979</color>
+    <color name="state_ok_container">#D7F2DA</color>
+    <color name="state_warn_container">#FFE2B8</color>
+    <color name="state_bad_container">#FFDAD6</color>
+    <color name="state_idle_container">#E2E5E5</color>
+</resources>

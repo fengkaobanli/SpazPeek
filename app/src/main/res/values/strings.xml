@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpazPeek</string>
+    <string name="app_subtitle">链路易读性检测</string>
+
+    <string name="btn_grant">请求 Shizuku</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="sw_auto">自动</string>
+    <string name="btn_copy">复制报告</string>
+    <string name="btn_export">导出文件</string>
+
+    <!-- Status chips -->
+    <string name="status_unauthorized">未授权</string>
+    <string name="status_reading">读取中…</string>
+    <string name="status_granted">已授权</string>
+    <string name="status_denied">权限被拒绝</string>
+
+    <!-- Section titles -->
+    <string name="sec_pipeline">链路判定</string>
+    <string name="sec_tracks">活跃 track</string>
+    <string name="sec_limited">Shizuku 拿不到（需 root）</string>
+    <string name="sec_raw">原始片段（节选）</string>
+
+    <!-- Empty state -->
+    <string name="empty_title">尚未授权 Shizuku</string>
+    <string name="empty_step1">1. 安装并打开 Shizuku App</string>
+    <string name="empty_step2">2. 启动服务（root 或 adb）</string>
+    <string name="empty_step3">3. 回到本页点「请求 Shizuku」</string>
+
+    <!-- Feedback -->
+    <string name="toast_copied">报告已复制</string>
+    <string name="toast_exported">已导出：%1$s</string>
+    <string name="toast_export_failed">导出失败: %1$s</string>
+    <string name="cd_expand">展开/折叠</string>
+</resources>

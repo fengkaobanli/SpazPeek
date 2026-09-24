@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 4dp grid spacing -->
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+
+    <dimen name="screen_margin">16dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_gap">12dp</dimen>
+    <dimen name="progress_height">4dp</dimen>
+    <dimen name="grid_gap">8dp</dimen>
+    <dimen name="icon_size">20dp</dimen>
+</resources>

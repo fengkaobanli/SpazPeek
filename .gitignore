@@ -1,0 +1,27 @@
+# ── Gradle ──────────────────────────────────────────────
+.gradle/
+build/
+app/build/
+
+# ── Android Studio / IDEA ───────────────────────────────
+.idea/
+*.iml
+captures/
+
+# ── 本机配置（勿提交）──────────────────────────────────
+local.properties
+
+# ── 签名与产物 ──────────────────────────────────────────
+*.jks
+*.keystore
+*.apk
+*.aab
+*.ap_
+*.dex
+output.json
+
+# ── Native / 其他 ───────────────────────────────────────
+.externalNativeBuild/
+.cxx/
+.DS_Store
+Thumbs.db
